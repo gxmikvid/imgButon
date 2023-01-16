@@ -1,0 +1,11 @@
+C:\Users\cisco\source\repos\DinamikusKontrol\DinamikusKontrol\bin\Debug\DinamikusKontrol.exe.config
+C:\Users\cisco\source\repos\DinamikusKontrol\DinamikusKontrol\bin\Debug\DinamikusKontrol.exe
+C:\Users\cisco\source\repos\DinamikusKontrol\DinamikusKontrol\bin\Debug\DinamikusKontrol.pdb
+C:\Users\cisco\source\repos\DinamikusKontrol\DinamikusKontrol\obj\Debug\DinamikusKontrol.csproj.AssemblyReference.cache
+C:\Users\cisco\source\repos\DinamikusKontrol\DinamikusKontrol\obj\Debug\DinamikusKontrol.csproj.SuggestedBindingRedirects.cache
+C:\Users\cisco\source\repos\DinamikusKontrol\DinamikusKontrol\obj\Debug\DinamikusKontrol.Form1.resources
+C:\Users\cisco\source\repos\DinamikusKontrol\DinamikusKontrol\obj\Debug\DinamikusKontrol.Properties.Resources.resources
+C:\Users\cisco\source\repos\DinamikusKontrol\DinamikusKontrol\obj\Debug\DinamikusKontrol.csproj.GenerateResource.cache
+C:\Users\cisco\source\repos\DinamikusKontrol\DinamikusKontrol\obj\Debug\DinamikusKontrol.csproj.CoreCompileInputs.cache
+C:\Users\cisco\source\repos\DinamikusKontrol\DinamikusKontrol\obj\Debug\DinamikusKontrol.exe
+C:\Users\cisco\source\repos\DinamikusKontrol\DinamikusKontrol\obj\Debug\DinamikusKontrol.pdb
